@@ -1,0 +1,26 @@
+.sidebar-content{
+  height: 100%;
+  width: 240px;
+  background-color: #252525;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+}
+
+.sidebar-item{
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--mat-sys-primary);
+  padding: 24px 24px;
+  &:hover{
+    background-color: var(--mat-sys-secondary-container);
+    cursor: pointer;
+  }
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+}

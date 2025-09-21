@@ -1,0 +1,19 @@
+<section>
+  <div>sidebar header</div>
+  <div class="sidebar-content">
+    <nav>
+      <ul>
+        <mat-list role="list">
+          @for (item of sidebarItems; track $index) {
+            <mat-list-item role="listitem" style="padding: 0;">
+              <div class="sidebar-item" routerLink="/{{item.route}}">
+                <mat-icon aria-hidden="false" attr.aria-label="{{item.nome}} icone" fontIcon="{{item.icon}}"></mat-icon>
+                <p>{{item.nome}}</p>
+              </div>
+            </mat-list-item>
+          }
+        </mat-list>
+      </ul>
+    </nav>
+  </div>
+</section>

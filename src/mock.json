@@ -1,0 +1,1310 @@
+[
+  {
+    "_id": "68d059331da70a5a98b1c8df",
+    "table_name": "labore minim culpa",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": false,
+    "status": "em analise",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Rosemarie Andrews",
+        "gender": "female",
+        "age": 22,
+        "email": "rosemarieandrews@diginetic.com",
+        "phone": "+1 (893) 591-3813",
+        "registered": "2021-05-07T06:26:10 +03:00",
+        "balance": "$2,982.29",
+        "credit_status": "risco"
+      },
+      {
+        "index": 1,
+        "client_name": "Knight Head",
+        "gender": "male",
+        "age": 26,
+        "email": "knighthead@diginetic.com",
+        "phone": "+1 (994) 504-2308",
+        "registered": "2022-12-02T12:04:52 +03:00",
+        "balance": "$2,405.36",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 2,
+        "client_name": "Mcguire Diaz",
+        "gender": "male",
+        "age": 40,
+        "email": "mcguirediaz@diginetic.com",
+        "phone": "+1 (980) 541-2608",
+        "registered": "2019-11-01T05:48:47 +03:00",
+        "balance": "$3,435.36",
+        "credit_status": "risco"
+      },
+      {
+        "index": 3,
+        "client_name": "Yvonne Mckay",
+        "gender": "female",
+        "age": 37,
+        "email": "yvonnemckay@diginetic.com",
+        "phone": "+1 (957) 415-2536",
+        "registered": "2014-05-23T08:35:47 +03:00",
+        "balance": "$3,680.74",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 4,
+        "client_name": "Woodward Lee",
+        "gender": "male",
+        "age": 40,
+        "email": "woodwardlee@diginetic.com",
+        "phone": "+1 (942) 519-3718",
+        "registered": "2021-12-27T12:46:21 +03:00",
+        "balance": "$2,408.11",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 5,
+        "client_name": "Serrano Patrick",
+        "gender": "male",
+        "age": 37,
+        "email": "serranopatrick@diginetic.com",
+        "phone": "+1 (994) 588-2135",
+        "registered": "2015-06-19T10:31:57 +03:00",
+        "balance": "$2,821.21",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 6,
+        "client_name": "Mcgee Hale",
+        "gender": "male",
+        "age": 24,
+        "email": "mcgeehale@diginetic.com",
+        "phone": "+1 (996) 487-3908",
+        "registered": "2020-08-26T12:33:35 +03:00",
+        "balance": "$3,566.29",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 7,
+        "client_name": "Bass Kerr",
+        "gender": "male",
+        "age": 29,
+        "email": "basskerr@diginetic.com",
+        "phone": "+1 (862) 560-2254",
+        "registered": "2022-04-28T09:26:39 +03:00",
+        "balance": "$2,978.14",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 8,
+        "client_name": "Opal Lane",
+        "gender": "female",
+        "age": 23,
+        "email": "opallane@diginetic.com",
+        "phone": "+1 (914) 534-3290",
+        "registered": "2017-09-13T11:34:06 +03:00",
+        "balance": "$3,543.39",
+        "credit_status": "risco"
+      }
+    ]
+  },
+  {
+    "_id": "68d059333a53718d777da452",
+    "table_name": "est eu deserunt",
+    "data_type": "client data",
+    "owned": true,
+    "has_access": true,
+    "status": "solicitar acesso",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Ross Dyer",
+        "gender": "male",
+        "age": 25,
+        "email": "rossdyer@diginetic.com",
+        "phone": "+1 (921) 505-2175",
+        "registered": "2021-06-02T11:26:27 +03:00",
+        "balance": "$1,889.37",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 1,
+        "client_name": "Aguilar Benjamin",
+        "gender": "male",
+        "age": 21,
+        "email": "aguilarbenjamin@diginetic.com",
+        "phone": "+1 (924) 514-2846",
+        "registered": "2023-06-26T11:13:31 +03:00",
+        "balance": "$3,583.32",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 2,
+        "client_name": "Alana Rosales",
+        "gender": "female",
+        "age": 23,
+        "email": "alanarosales@diginetic.com",
+        "phone": "+1 (820) 467-2647",
+        "registered": "2019-08-22T12:39:34 +03:00",
+        "balance": "$2,802.71",
+        "credit_status": "risco"
+      },
+      {
+        "index": 3,
+        "client_name": "Janell Lang",
+        "gender": "female",
+        "age": 37,
+        "email": "janelllang@diginetic.com",
+        "phone": "+1 (925) 492-3493",
+        "registered": "2022-08-07T02:11:32 +03:00",
+        "balance": "$2,614.26",
+        "credit_status": "risco"
+      },
+      {
+        "index": 4,
+        "client_name": "Fanny Velazquez",
+        "gender": "female",
+        "age": 31,
+        "email": "fannyvelazquez@diginetic.com",
+        "phone": "+1 (884) 484-2904",
+        "registered": "2017-05-16T11:15:39 +03:00",
+        "balance": "$2,126.79",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 5,
+        "client_name": "Short Shaffer",
+        "gender": "male",
+        "age": 30,
+        "email": "shortshaffer@diginetic.com",
+        "phone": "+1 (807) 573-3785",
+        "registered": "2019-08-21T09:27:15 +03:00",
+        "balance": "$3,241.17",
+        "credit_status": "risco"
+      },
+      {
+        "index": 6,
+        "client_name": "Jeanne Duran",
+        "gender": "female",
+        "age": 33,
+        "email": "jeanneduran@diginetic.com",
+        "phone": "+1 (951) 454-2653",
+        "registered": "2021-04-02T02:19:06 +03:00",
+        "balance": "$3,225.29",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 7,
+        "client_name": "Reed Frazier",
+        "gender": "male",
+        "age": 26,
+        "email": "reedfrazier@diginetic.com",
+        "phone": "+1 (954) 520-2149",
+        "registered": "2022-01-02T02:07:20 +03:00",
+        "balance": "$2,063.77",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 8,
+        "client_name": "Harrison Dunlap",
+        "gender": "male",
+        "age": 28,
+        "email": "harrisondunlap@diginetic.com",
+        "phone": "+1 (855) 520-2127",
+        "registered": "2020-09-28T06:45:02 +03:00",
+        "balance": "$3,317.93",
+        "credit_status": "suspeito"
+      }
+    ]
+  },
+  {
+    "_id": "68d05933abbebb0e70ae1c7b",
+    "table_name": "amet laborum cillum",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": false,
+    "status": "aprovada",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Luisa Dixon",
+        "gender": "female",
+        "age": 34,
+        "email": "luisadixon@diginetic.com",
+        "phone": "+1 (970) 556-3730",
+        "registered": "2014-07-03T12:04:59 +03:00",
+        "balance": "$3,769.94",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 1,
+        "client_name": "Melinda Albert",
+        "gender": "female",
+        "age": 40,
+        "email": "melindaalbert@diginetic.com",
+        "phone": "+1 (897) 406-2696",
+        "registered": "2018-05-19T03:10:23 +03:00",
+        "balance": "$2,713.74",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 2,
+        "client_name": "Madden Holland",
+        "gender": "male",
+        "age": 22,
+        "email": "maddenholland@diginetic.com",
+        "phone": "+1 (843) 557-3786",
+        "registered": "2017-11-25T05:33:07 +03:00",
+        "balance": "$1,450.29",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 3,
+        "client_name": "Rae Stevenson",
+        "gender": "female",
+        "age": 33,
+        "email": "raestevenson@diginetic.com",
+        "phone": "+1 (986) 494-2266",
+        "registered": "2018-07-26T06:23:16 +03:00",
+        "balance": "$3,155.36",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 4,
+        "client_name": "Oneill Underwood",
+        "gender": "male",
+        "age": 38,
+        "email": "oneillunderwood@diginetic.com",
+        "phone": "+1 (804) 479-2715",
+        "registered": "2023-12-22T07:38:40 +03:00",
+        "balance": "$2,759.55",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 5,
+        "client_name": "Jami Stuart",
+        "gender": "female",
+        "age": 27,
+        "email": "jamistuart@diginetic.com",
+        "phone": "+1 (892) 461-3840",
+        "registered": "2016-05-26T04:34:46 +03:00",
+        "balance": "$1,977.55",
+        "credit_status": "risco"
+      },
+      {
+        "index": 6,
+        "client_name": "Cleo Mays",
+        "gender": "female",
+        "age": 36,
+        "email": "cleomays@diginetic.com",
+        "phone": "+1 (876) 544-2606",
+        "registered": "2020-12-05T02:55:48 +03:00",
+        "balance": "$2,484.50",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 7,
+        "client_name": "Dixon Goodwin",
+        "gender": "male",
+        "age": 25,
+        "email": "dixongoodwin@diginetic.com",
+        "phone": "+1 (891) 487-2925",
+        "registered": "2021-12-18T10:17:23 +03:00",
+        "balance": "$2,514.85",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 8,
+        "client_name": "Lily Vang",
+        "gender": "female",
+        "age": 37,
+        "email": "lilyvang@diginetic.com",
+        "phone": "+1 (963) 585-3928",
+        "registered": "2020-06-18T03:56:30 +03:00",
+        "balance": "$3,245.96",
+        "credit_status": "risco"
+      }
+    ]
+  },
+  {
+    "_id": "68d059333e4440b1edb72257",
+    "table_name": "ipsum anim eiusmod",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": true,
+    "status": "em analise",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Reilly Frost",
+        "gender": "male",
+        "age": 29,
+        "email": "reillyfrost@diginetic.com",
+        "phone": "+1 (904) 527-3500",
+        "registered": "2022-02-28T06:25:54 +03:00",
+        "balance": "$1,682.19",
+        "credit_status": "risco"
+      },
+      {
+        "index": 1,
+        "client_name": "Adkins Soto",
+        "gender": "male",
+        "age": 24,
+        "email": "adkinssoto@diginetic.com",
+        "phone": "+1 (954) 503-2235",
+        "registered": "2024-10-16T04:26:13 +03:00",
+        "balance": "$2,307.14",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 2,
+        "client_name": "Bettye Bowers",
+        "gender": "female",
+        "age": 26,
+        "email": "bettyebowers@diginetic.com",
+        "phone": "+1 (990) 512-2667",
+        "registered": "2015-11-05T10:10:37 +03:00",
+        "balance": "$3,816.53",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 3,
+        "client_name": "Marguerite Waters",
+        "gender": "female",
+        "age": 21,
+        "email": "margueritewaters@diginetic.com",
+        "phone": "+1 (868) 544-3619",
+        "registered": "2020-06-15T04:46:26 +03:00",
+        "balance": "$3,164.59",
+        "credit_status": "risco"
+      },
+      {
+        "index": 4,
+        "client_name": "Blankenship Estes",
+        "gender": "male",
+        "age": 30,
+        "email": "blankenshipestes@diginetic.com",
+        "phone": "+1 (944) 452-3033",
+        "registered": "2016-09-16T06:32:15 +03:00",
+        "balance": "$2,230.88",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 5,
+        "client_name": "Duffy Hays",
+        "gender": "male",
+        "age": 35,
+        "email": "duffyhays@diginetic.com",
+        "phone": "+1 (835) 594-2359",
+        "registered": "2017-02-11T07:30:37 +03:00",
+        "balance": "$2,466.94",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 6,
+        "client_name": "Green Nixon",
+        "gender": "male",
+        "age": 33,
+        "email": "greennixon@diginetic.com",
+        "phone": "+1 (830) 421-3938",
+        "registered": "2016-11-01T03:58:06 +03:00",
+        "balance": "$3,398.07",
+        "credit_status": "risco"
+      },
+      {
+        "index": 7,
+        "client_name": "Georgia Duke",
+        "gender": "female",
+        "age": 21,
+        "email": "georgiaduke@diginetic.com",
+        "phone": "+1 (815) 479-2847",
+        "registered": "2019-03-04T04:13:10 +03:00",
+        "balance": "$1,777.37",
+        "credit_status": "risco"
+      },
+      {
+        "index": 8,
+        "client_name": "Dudley Aguilar",
+        "gender": "male",
+        "age": 34,
+        "email": "dudleyaguilar@diginetic.com",
+        "phone": "+1 (970) 438-3221",
+        "registered": "2021-08-29T12:37:53 +03:00",
+        "balance": "$2,283.22",
+        "credit_status": "excelente"
+      }
+    ]
+  },
+  {
+    "_id": "68d05933b5bcb60f3cb1e97a",
+    "table_name": "adipisicing minim magna",
+    "data_type": "client data",
+    "owned": true,
+    "has_access": true,
+    "status": "em analise",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Rachel Robinson",
+        "gender": "female",
+        "age": 36,
+        "email": "rachelrobinson@diginetic.com",
+        "phone": "+1 (858) 438-3422",
+        "registered": "2014-06-02T04:41:14 +03:00",
+        "balance": "$3,670.60",
+        "credit_status": "risco"
+      },
+      {
+        "index": 1,
+        "client_name": "Galloway Slater",
+        "gender": "male",
+        "age": 30,
+        "email": "gallowayslater@diginetic.com",
+        "phone": "+1 (819) 587-3696",
+        "registered": "2019-09-23T05:41:06 +03:00",
+        "balance": "$2,587.84",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 2,
+        "client_name": "Sally Payne",
+        "gender": "female",
+        "age": 28,
+        "email": "sallypayne@diginetic.com",
+        "phone": "+1 (998) 455-3940",
+        "registered": "2019-09-30T05:53:47 +03:00",
+        "balance": "$3,511.72",
+        "credit_status": "risco"
+      },
+      {
+        "index": 3,
+        "client_name": "Jimenez Fry",
+        "gender": "male",
+        "age": 26,
+        "email": "jimenezfry@diginetic.com",
+        "phone": "+1 (875) 527-3066",
+        "registered": "2018-07-07T01:28:04 +03:00",
+        "balance": "$1,367.77",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 4,
+        "client_name": "Corine Abbott",
+        "gender": "female",
+        "age": 21,
+        "email": "corineabbott@diginetic.com",
+        "phone": "+1 (842) 424-2021",
+        "registered": "2014-08-30T01:17:25 +03:00",
+        "balance": "$2,967.39",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 5,
+        "client_name": "Laura Charles",
+        "gender": "female",
+        "age": 29,
+        "email": "lauracharles@diginetic.com",
+        "phone": "+1 (874) 584-3982",
+        "registered": "2022-10-26T09:39:58 +03:00",
+        "balance": "$1,472.49",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 6,
+        "client_name": "Debbie Clemons",
+        "gender": "female",
+        "age": 32,
+        "email": "debbieclemons@diginetic.com",
+        "phone": "+1 (905) 560-3972",
+        "registered": "2023-12-20T09:18:09 +03:00",
+        "balance": "$1,047.45",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 7,
+        "client_name": "Lina Holmes",
+        "gender": "female",
+        "age": 31,
+        "email": "linaholmes@diginetic.com",
+        "phone": "+1 (877) 504-3123",
+        "registered": "2025-03-08T01:20:50 +03:00",
+        "balance": "$2,800.19",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 8,
+        "client_name": "Ellen Dalton",
+        "gender": "female",
+        "age": 33,
+        "email": "ellendalton@diginetic.com",
+        "phone": "+1 (986) 554-3274",
+        "registered": "2020-06-17T11:42:53 +03:00",
+        "balance": "$1,359.62",
+        "credit_status": "risco"
+      }
+    ]
+  },
+  {
+    "_id": "68d059335e1b8548db3abefa",
+    "table_name": "deserunt tempor occaecat",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": false,
+    "status": "negado",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Hubbard Walters",
+        "gender": "male",
+        "age": 29,
+        "email": "hubbardwalters@diginetic.com",
+        "phone": "+1 (997) 502-2072",
+        "registered": "2023-01-14T08:14:00 +03:00",
+        "balance": "$3,402.72",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 1,
+        "client_name": "Roy Wilcox",
+        "gender": "male",
+        "age": 28,
+        "email": "roywilcox@diginetic.com",
+        "phone": "+1 (808) 540-2689",
+        "registered": "2017-01-14T01:23:28 +03:00",
+        "balance": "$1,349.16",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 2,
+        "client_name": "Delacruz Gross",
+        "gender": "male",
+        "age": 24,
+        "email": "delacruzgross@diginetic.com",
+        "phone": "+1 (971) 429-3232",
+        "registered": "2017-02-20T06:39:01 +03:00",
+        "balance": "$3,424.24",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 3,
+        "client_name": "Dorthy Pittman",
+        "gender": "female",
+        "age": 26,
+        "email": "dorthypittman@diginetic.com",
+        "phone": "+1 (802) 444-3505",
+        "registered": "2014-12-31T12:50:37 +03:00",
+        "balance": "$3,685.40",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 4,
+        "client_name": "Dale Butler",
+        "gender": "female",
+        "age": 23,
+        "email": "dalebutler@diginetic.com",
+        "phone": "+1 (881) 409-2403",
+        "registered": "2014-04-30T08:58:29 +03:00",
+        "balance": "$3,014.61",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 5,
+        "client_name": "Selma Aguirre",
+        "gender": "female",
+        "age": 36,
+        "email": "selmaaguirre@diginetic.com",
+        "phone": "+1 (836) 586-2134",
+        "registered": "2024-05-16T12:11:31 +03:00",
+        "balance": "$3,755.16",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 6,
+        "client_name": "Mary Tyson",
+        "gender": "female",
+        "age": 33,
+        "email": "marytyson@diginetic.com",
+        "phone": "+1 (904) 479-3307",
+        "registered": "2021-07-13T07:47:30 +03:00",
+        "balance": "$1,108.12",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 7,
+        "client_name": "Wiley Wagner",
+        "gender": "male",
+        "age": 27,
+        "email": "wileywagner@diginetic.com",
+        "phone": "+1 (999) 441-2750",
+        "registered": "2018-07-14T03:15:10 +03:00",
+        "balance": "$1,872.56",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 8,
+        "client_name": "Jennie Gordon",
+        "gender": "female",
+        "age": 30,
+        "email": "jenniegordon@diginetic.com",
+        "phone": "+1 (964) 457-3017",
+        "registered": "2020-04-15T07:09:57 +03:00",
+        "balance": "$1,860.74",
+        "credit_status": "suspeito"
+      }
+    ]
+  },
+  {
+    "_id": "68d05933ea11a3ed04c26533",
+    "table_name": "ex veniam culpa",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": true,
+    "status": "solicitar acesso",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Geraldine Mccormick",
+        "gender": "female",
+        "age": 22,
+        "email": "geraldinemccormick@diginetic.com",
+        "phone": "+1 (927) 406-2323",
+        "registered": "2019-08-06T11:09:12 +03:00",
+        "balance": "$1,741.47",
+        "credit_status": "risco"
+      },
+      {
+        "index": 1,
+        "client_name": "Downs Brady",
+        "gender": "male",
+        "age": 33,
+        "email": "downsbrady@diginetic.com",
+        "phone": "+1 (804) 561-2311",
+        "registered": "2019-08-24T05:24:51 +03:00",
+        "balance": "$2,845.11",
+        "credit_status": "risco"
+      },
+      {
+        "index": 2,
+        "client_name": "Pugh Hooper",
+        "gender": "male",
+        "age": 40,
+        "email": "pughhooper@diginetic.com",
+        "phone": "+1 (815) 538-2421",
+        "registered": "2016-01-28T07:58:52 +03:00",
+        "balance": "$2,616.65",
+        "credit_status": "risco"
+      },
+      {
+        "index": 3,
+        "client_name": "Russo Stone",
+        "gender": "male",
+        "age": 28,
+        "email": "russostone@diginetic.com",
+        "phone": "+1 (984) 457-2118",
+        "registered": "2019-07-23T09:38:36 +03:00",
+        "balance": "$1,569.90",
+        "credit_status": "risco"
+      },
+      {
+        "index": 4,
+        "client_name": "Thomas Rich",
+        "gender": "male",
+        "age": 38,
+        "email": "thomasrich@diginetic.com",
+        "phone": "+1 (915) 479-2625",
+        "registered": "2023-06-20T11:57:29 +03:00",
+        "balance": "$2,793.57",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 5,
+        "client_name": "Frieda Kramer",
+        "gender": "female",
+        "age": 24,
+        "email": "friedakramer@diginetic.com",
+        "phone": "+1 (881) 509-2048",
+        "registered": "2024-12-26T01:37:38 +03:00",
+        "balance": "$2,234.91",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 6,
+        "client_name": "Sophia Mayer",
+        "gender": "female",
+        "age": 28,
+        "email": "sophiamayer@diginetic.com",
+        "phone": "+1 (956) 586-3172",
+        "registered": "2014-08-06T01:45:45 +03:00",
+        "balance": "$3,896.28",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 7,
+        "client_name": "Erickson Stanley",
+        "gender": "male",
+        "age": 35,
+        "email": "ericksonstanley@diginetic.com",
+        "phone": "+1 (815) 408-2454",
+        "registered": "2025-09-20T04:26:23 +03:00",
+        "balance": "$2,578.23",
+        "credit_status": "risco"
+      },
+      {
+        "index": 8,
+        "client_name": "Bond Sellers",
+        "gender": "male",
+        "age": 24,
+        "email": "bondsellers@diginetic.com",
+        "phone": "+1 (895) 515-3925",
+        "registered": "2023-07-18T12:26:47 +03:00",
+        "balance": "$2,616.85",
+        "credit_status": "excelente"
+      }
+    ]
+  },
+  {
+    "_id": "68d0593335cbff7293baa51b",
+    "table_name": "veniam veniam anim",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": false,
+    "status": "negado",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Moon Joseph",
+        "gender": "male",
+        "age": 23,
+        "email": "moonjoseph@diginetic.com",
+        "phone": "+1 (813) 591-2586",
+        "registered": "2021-03-26T07:24:00 +03:00",
+        "balance": "$3,212.32",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 1,
+        "client_name": "Mitchell Prince",
+        "gender": "male",
+        "age": 29,
+        "email": "mitchellprince@diginetic.com",
+        "phone": "+1 (998) 546-3013",
+        "registered": "2015-10-04T08:30:27 +03:00",
+        "balance": "$2,268.67",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 2,
+        "client_name": "Pena Savage",
+        "gender": "male",
+        "age": 26,
+        "email": "penasavage@diginetic.com",
+        "phone": "+1 (827) 451-3407",
+        "registered": "2023-11-09T04:25:08 +03:00",
+        "balance": "$1,692.89",
+        "credit_status": "risco"
+      },
+      {
+        "index": 3,
+        "client_name": "Chandra Henderson",
+        "gender": "female",
+        "age": 27,
+        "email": "chandrahenderson@diginetic.com",
+        "phone": "+1 (944) 496-2870",
+        "registered": "2014-12-11T08:07:36 +03:00",
+        "balance": "$2,505.00",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 4,
+        "client_name": "Jensen Reyes",
+        "gender": "male",
+        "age": 26,
+        "email": "jensenreyes@diginetic.com",
+        "phone": "+1 (807) 458-3337",
+        "registered": "2024-03-30T02:09:50 +03:00",
+        "balance": "$1,275.88",
+        "credit_status": "risco"
+      },
+      {
+        "index": 5,
+        "client_name": "Sarah Kane",
+        "gender": "female",
+        "age": 29,
+        "email": "sarahkane@diginetic.com",
+        "phone": "+1 (881) 574-3385",
+        "registered": "2016-07-13T03:39:14 +03:00",
+        "balance": "$3,788.06",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 6,
+        "client_name": "Quinn Key",
+        "gender": "male",
+        "age": 39,
+        "email": "quinnkey@diginetic.com",
+        "phone": "+1 (865) 514-2632",
+        "registered": "2016-05-31T02:22:51 +03:00",
+        "balance": "$2,571.26",
+        "credit_status": "risco"
+      },
+      {
+        "index": 7,
+        "client_name": "Castillo Russo",
+        "gender": "male",
+        "age": 34,
+        "email": "castillorusso@diginetic.com",
+        "phone": "+1 (810) 550-3814",
+        "registered": "2016-04-23T08:48:18 +03:00",
+        "balance": "$3,636.06",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 8,
+        "client_name": "Patton Simon",
+        "gender": "male",
+        "age": 34,
+        "email": "pattonsimon@diginetic.com",
+        "phone": "+1 (986) 424-2918",
+        "registered": "2023-10-07T11:19:11 +03:00",
+        "balance": "$3,828.56",
+        "credit_status": "risco"
+      }
+    ]
+  },
+  {
+    "_id": "68d05933893d548416544727",
+    "table_name": "eiusmod esse laborum",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": true,
+    "status": "solicitar acesso",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Massey Price",
+        "gender": "male",
+        "age": 29,
+        "email": "masseyprice@diginetic.com",
+        "phone": "+1 (842) 563-3859",
+        "registered": "2020-08-03T09:38:42 +03:00",
+        "balance": "$3,209.72",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 1,
+        "client_name": "Stokes Howe",
+        "gender": "male",
+        "age": 20,
+        "email": "stokeshowe@diginetic.com",
+        "phone": "+1 (913) 562-2596",
+        "registered": "2022-05-16T03:42:02 +03:00",
+        "balance": "$2,562.36",
+        "credit_status": "risco"
+      },
+      {
+        "index": 2,
+        "client_name": "Tabatha Hoffman",
+        "gender": "female",
+        "age": 35,
+        "email": "tabathahoffman@diginetic.com",
+        "phone": "+1 (982) 507-2002",
+        "registered": "2019-10-22T11:28:49 +03:00",
+        "balance": "$3,539.91",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 3,
+        "client_name": "Cherie Crane",
+        "gender": "female",
+        "age": 40,
+        "email": "cheriecrane@diginetic.com",
+        "phone": "+1 (898) 402-2965",
+        "registered": "2015-11-14T09:18:44 +03:00",
+        "balance": "$2,876.45",
+        "credit_status": "risco"
+      },
+      {
+        "index": 4,
+        "client_name": "Avis Koch",
+        "gender": "female",
+        "age": 30,
+        "email": "aviskoch@diginetic.com",
+        "phone": "+1 (947) 434-3353",
+        "registered": "2022-09-06T12:15:06 +03:00",
+        "balance": "$1,306.52",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 5,
+        "client_name": "Naomi Bernard",
+        "gender": "female",
+        "age": 29,
+        "email": "naomibernard@diginetic.com",
+        "phone": "+1 (894) 552-2788",
+        "registered": "2014-07-21T12:44:43 +03:00",
+        "balance": "$1,375.32",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 6,
+        "client_name": "Snyder Finch",
+        "gender": "male",
+        "age": 36,
+        "email": "snyderfinch@diginetic.com",
+        "phone": "+1 (888) 592-3774",
+        "registered": "2016-03-21T05:32:24 +03:00",
+        "balance": "$3,138.83",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 7,
+        "client_name": "Mccarthy Campos",
+        "gender": "male",
+        "age": 39,
+        "email": "mccarthycampos@diginetic.com",
+        "phone": "+1 (820) 470-2378",
+        "registered": "2016-08-15T06:54:30 +03:00",
+        "balance": "$1,782.51",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 8,
+        "client_name": "Pearlie Meyers",
+        "gender": "female",
+        "age": 29,
+        "email": "pearliemeyers@diginetic.com",
+        "phone": "+1 (923) 469-2440",
+        "registered": "2014-06-09T02:36:01 +03:00",
+        "balance": "$1,056.74",
+        "credit_status": "risco"
+      }
+    ]
+  },
+  {
+    "_id": "68d05933ed63853b56b7d79f",
+    "table_name": "exercitation adipisicing commodo",
+    "data_type": "client data",
+    "owned": false,
+    "has_access": true,
+    "status": "em analise",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Lisa Reese",
+        "gender": "female",
+        "age": 32,
+        "email": "lisareese@diginetic.com",
+        "phone": "+1 (947) 433-3384",
+        "registered": "2017-02-06T02:52:07 +03:00",
+        "balance": "$1,864.88",
+        "credit_status": "risco"
+      },
+      {
+        "index": 1,
+        "client_name": "Annette Garrison",
+        "gender": "female",
+        "age": 39,
+        "email": "annettegarrison@diginetic.com",
+        "phone": "+1 (959) 454-3386",
+        "registered": "2015-08-14T04:35:21 +03:00",
+        "balance": "$1,438.54",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 2,
+        "client_name": "Mendez Navarro",
+        "gender": "male",
+        "age": 38,
+        "email": "mendeznavarro@diginetic.com",
+        "phone": "+1 (801) 570-2565",
+        "registered": "2021-07-23T07:35:21 +03:00",
+        "balance": "$2,123.93",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 3,
+        "client_name": "Cherry Parks",
+        "gender": "male",
+        "age": 23,
+        "email": "cherryparks@diginetic.com",
+        "phone": "+1 (956) 554-3219",
+        "registered": "2014-10-31T10:55:47 +03:00",
+        "balance": "$1,893.36",
+        "credit_status": "risco"
+      },
+      {
+        "index": 4,
+        "client_name": "Ellis Hood",
+        "gender": "male",
+        "age": 28,
+        "email": "ellishood@diginetic.com",
+        "phone": "+1 (944) 476-3076",
+        "registered": "2015-12-20T04:52:49 +03:00",
+        "balance": "$1,876.35",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 5,
+        "client_name": "Lauri Merrill",
+        "gender": "female",
+        "age": 26,
+        "email": "laurimerrill@diginetic.com",
+        "phone": "+1 (964) 544-2281",
+        "registered": "2021-11-15T07:50:08 +03:00",
+        "balance": "$3,163.18",
+        "credit_status": "risco"
+      },
+      {
+        "index": 6,
+        "client_name": "Rhoda Roman",
+        "gender": "female",
+        "age": 24,
+        "email": "rhodaroman@diginetic.com",
+        "phone": "+1 (929) 452-2420",
+        "registered": "2015-09-11T12:13:12 +03:00",
+        "balance": "$3,903.44",
+        "credit_status": "risco"
+      },
+      {
+        "index": 7,
+        "client_name": "Elaine Peck",
+        "gender": "female",
+        "age": 21,
+        "email": "elainepeck@diginetic.com",
+        "phone": "+1 (974) 401-3424",
+        "registered": "2019-11-21T01:01:35 +03:00",
+        "balance": "$1,077.25",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 8,
+        "client_name": "Horn Davidson",
+        "gender": "male",
+        "age": 20,
+        "email": "horndavidson@diginetic.com",
+        "phone": "+1 (902) 552-2964",
+        "registered": "2020-11-28T11:19:15 +03:00",
+        "balance": "$3,378.10",
+        "credit_status": "suspeito"
+      }
+    ]
+  },
+  {
+    "_id": "68d05933796807b5cb727258",
+    "table_name": "ut laborum magna",
+    "data_type": "client data",
+    "owned": true,
+    "has_access": false,
+    "status": "negado",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Dina Logan",
+        "gender": "female",
+        "age": 32,
+        "email": "dinalogan@diginetic.com",
+        "phone": "+1 (803) 523-2261",
+        "registered": "2023-07-08T01:01:23 +03:00",
+        "balance": "$1,081.24",
+        "credit_status": "risco"
+      },
+      {
+        "index": 1,
+        "client_name": "Vincent Hensley",
+        "gender": "male",
+        "age": 35,
+        "email": "vincenthensley@diginetic.com",
+        "phone": "+1 (976) 465-3066",
+        "registered": "2022-11-03T12:14:40 +03:00",
+        "balance": "$1,330.61",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 2,
+        "client_name": "Beatriz Bush",
+        "gender": "female",
+        "age": 37,
+        "email": "beatrizbush@diginetic.com",
+        "phone": "+1 (955) 467-3792",
+        "registered": "2021-05-15T11:08:22 +03:00",
+        "balance": "$3,666.70",
+        "credit_status": "risco"
+      },
+      {
+        "index": 3,
+        "client_name": "Hardin Byers",
+        "gender": "male",
+        "age": 22,
+        "email": "hardinbyers@diginetic.com",
+        "phone": "+1 (886) 435-2333",
+        "registered": "2023-06-10T10:03:13 +03:00",
+        "balance": "$1,997.56",
+        "credit_status": "risco"
+      },
+      {
+        "index": 4,
+        "client_name": "Tabitha Walsh",
+        "gender": "female",
+        "age": 38,
+        "email": "tabithawalsh@diginetic.com",
+        "phone": "+1 (971) 542-2004",
+        "registered": "2017-08-30T04:02:50 +03:00",
+        "balance": "$1,138.43",
+        "credit_status": "risco"
+      },
+      {
+        "index": 5,
+        "client_name": "Ursula Obrien",
+        "gender": "female",
+        "age": 38,
+        "email": "ursulaobrien@diginetic.com",
+        "phone": "+1 (980) 592-3502",
+        "registered": "2023-05-16T07:49:49 +03:00",
+        "balance": "$2,089.17",
+        "credit_status": "risco"
+      },
+      {
+        "index": 6,
+        "client_name": "Hays Weber",
+        "gender": "male",
+        "age": 35,
+        "email": "haysweber@diginetic.com",
+        "phone": "+1 (916) 598-2925",
+        "registered": "2015-09-24T02:21:42 +03:00",
+        "balance": "$2,262.79",
+        "credit_status": "risco"
+      },
+      {
+        "index": 7,
+        "client_name": "Haney Hampton",
+        "gender": "male",
+        "age": 22,
+        "email": "haneyhampton@diginetic.com",
+        "phone": "+1 (881) 531-2427",
+        "registered": "2020-04-26T08:34:25 +03:00",
+        "balance": "$2,851.95",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 8,
+        "client_name": "Harrington Hobbs",
+        "gender": "male",
+        "age": 31,
+        "email": "harringtonhobbs@diginetic.com",
+        "phone": "+1 (804) 404-3542",
+        "registered": "2023-12-26T08:07:43 +03:00",
+        "balance": "$2,689.88",
+        "credit_status": "suspeito"
+      }
+    ]
+  },
+  {
+    "_id": "68d0593358ce9ca764176f45",
+    "table_name": "aliqua cupidatat cupidatat",
+    "data_type": "client data",
+    "owned": true,
+    "has_access": false,
+    "status": "negado",
+    "details": [
+      {
+        "index": 0,
+        "client_name": "Jacklyn Burch",
+        "gender": "female",
+        "age": 28,
+        "email": "jacklynburch@diginetic.com",
+        "phone": "+1 (926) 528-2165",
+        "registered": "2016-03-29T08:07:54 +03:00",
+        "balance": "$3,532.43",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 1,
+        "client_name": "Garcia Adams",
+        "gender": "male",
+        "age": 20,
+        "email": "garciaadams@diginetic.com",
+        "phone": "+1 (917) 562-2378",
+        "registered": "2015-01-31T04:13:56 +03:00",
+        "balance": "$1,666.90",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 2,
+        "client_name": "Henson Clay",
+        "gender": "male",
+        "age": 30,
+        "email": "hensonclay@diginetic.com",
+        "phone": "+1 (891) 559-2800",
+        "registered": "2014-12-13T06:02:11 +03:00",
+        "balance": "$2,549.27",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 3,
+        "client_name": "Rena Hebert",
+        "gender": "female",
+        "age": 24,
+        "email": "renahebert@diginetic.com",
+        "phone": "+1 (817) 504-2864",
+        "registered": "2016-01-02T08:14:45 +03:00",
+        "balance": "$1,910.64",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 4,
+        "client_name": "Spence Peterson",
+        "gender": "male",
+        "age": 33,
+        "email": "spencepeterson@diginetic.com",
+        "phone": "+1 (938) 591-3953",
+        "registered": "2014-09-01T04:48:22 +03:00",
+        "balance": "$2,826.91",
+        "credit_status": "suspeito"
+      },
+      {
+        "index": 5,
+        "client_name": "Nadine Bradshaw",
+        "gender": "female",
+        "age": 31,
+        "email": "nadinebradshaw@diginetic.com",
+        "phone": "+1 (858) 471-2167",
+        "registered": "2025-02-03T02:41:18 +03:00",
+        "balance": "$3,945.14",
+        "credit_status": "risco"
+      },
+      {
+        "index": 6,
+        "client_name": "Mejia Marks",
+        "gender": "male",
+        "age": 27,
+        "email": "mejiamarks@diginetic.com",
+        "phone": "+1 (915) 466-2895",
+        "registered": "2019-09-05T07:46:12 +03:00",
+        "balance": "$1,347.85",
+        "credit_status": "risco"
+      },
+      {
+        "index": 7,
+        "client_name": "Mendoza Forbes",
+        "gender": "male",
+        "age": 35,
+        "email": "mendozaforbes@diginetic.com",
+        "phone": "+1 (994) 496-2077",
+        "registered": "2016-03-24T06:13:16 +03:00",
+        "balance": "$1,428.03",
+        "credit_status": "excelente"
+      },
+      {
+        "index": 8,
+        "client_name": "Barrett Hurst",
+        "gender": "male",
+        "age": 28,
+        "email": "barretthurst@diginetic.com",
+        "phone": "+1 (855) 545-2849",
+        "registered": "2017-04-26T11:56:31 +03:00",
+        "balance": "$3,336.33",
+        "credit_status": "excelente"
+      }
+    ]
+  }
+]

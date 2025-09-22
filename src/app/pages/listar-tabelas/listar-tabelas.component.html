@@ -1,0 +1,94 @@
+<app-cabecalho-paginas 
+  [titulo]="'Catálogo de tabelas'" 
+  [descricao]="'Aqui você encontra todas as tabelas disponíveis no sistema'"
+></app-cabecalho-paginas>
+
+@if(loading){
+  <p>loading...</p>
+}@else{
+  @if(tabelas.length == 0){
+    <section class="sem-tabelas">
+      <h2>Você não possui autorização para ver esses dados</h2>
+      <p>Por favor solicite acesso ao grupo consumidor de dados</p>
+    </section>
+  }
+  @else{
+    <section>
+      <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+        <!-- Coluna Nome da tabela -->
+        <ng-container matColumnDef="nome tabela">
+          <th mat-header-cell *matHeaderCellDef> Nome tabela. </th>
+          <td mat-cell *matCellDef="let tabela"> {{tabela.table_name}} </td>
+        </ng-container>
+
+        <!-- Coluna Tipo -->
+        <ng-container matColumnDef="tipo">
+          <th mat-header-cell *matHeaderCellDef> Tipo </th>
+          <td mat-cell *matCellDef="let tabela"> {{tabela.data_type}} </td>
+        </ng-container>
+
+        <!-- Coluna Owned -->
+        <ng-container matColumnDef="owned">
+          <th mat-header-cell *matHeaderCellDef> Id do grupo owner </th>
+          <td mat-cell *matCellDef="let tabela">
+            @if (tabela.owned) {
+              <span class="dono">Você é dono desta tabela</span>
+            } @else{
+              <span>{{tabela._id}}</span>
+            }
+          </td>
+        </ng-container>
+
+        <!-- Coluna Tipo -->
+        <ng-container matColumnDef="status">
+          <th mat-header-cell *matHeaderCellDef> Status </th>
+          <td mat-cell *matCellDef="let tabela"> 
+            @if(tabela.owned){
+              <span class="status--dono">owner</span>
+            }@else{
+              @if (tabela.status == 'em analise') {
+                <span class="status--analise">{{tabela.status}}</span>
+              }@else if(tabela.status == 'aprovada'){
+                <span class="status--aprovada">{{tabela.status}}</span>
+              }@else if(tabela.status == 'negado'){
+                <span class="status--negado">{{tabela.status}}</span>
+              }@else if(tabela.status == 'solicitar acesso'){
+                <span class="status--solicitar">{{tabela.status}}</span>
+              }
+            }
+          </td>
+        </ng-container>
+
+        <!-- Coluna ações -->
+        <ng-container matColumnDef="acoes">
+          <th mat-header-cell *matHeaderCellDef> Ações </th>
+          <td mat-cell *matCellDef="let tabela">  
+            <div class="botoes-acoes">
+              @if(tabela.has_access && tabela.status == 'aprovada'){
+                <button mat-mini-fab aria-label="Botão de detalhes">
+                  <mat-icon>text_snippet</mat-icon>
+                </button>
+              }@else if(!tabela.owned && tabela.status == 'solicitar acesso'){
+                <button mat-mini-fab aria-label="Botão de solicitar acesso">
+                  <mat-icon>visibility</mat-icon>
+                </button>
+              }
+              @if (tabela.owned) {
+                <button mat-mini-fab aria-label="Botão de ver solicitações">
+                  <mat-icon>person</mat-icon>
+                </button>
+                <button mat-mini-fab aria-label="Botão de excluir tabela">
+                  <mat-icon>delete</mat-icon>
+                </button>
+              }
+            </div>
+          </td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="colunas"></tr>
+        <tr mat-row *matRowDef="let row; columns: colunas;"></tr>
+      </table>
+    </section>
+  }
+}
+

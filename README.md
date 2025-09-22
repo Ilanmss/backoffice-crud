@@ -42,3 +42,4 @@ Para trocar para uma API real, basta substituir as chamadas `of(MOCKDATA)` por c
 - **Documentação técnica:** Detalhar melhor os endpoints, interfaces e fluxo de dados.
 - **Melhor UX:** Refinar navegação, loading indicators e acessibilidade.
 - **Deixar acessível:** Trabalhar toda acessibilidade do site para pessoas com dificuldades de visão, completamente cegas ou surdas.
+- **Ações nas tabelas:** Colocar modais para confirmar exclusão de tabela, mostrar detalhes da tabela, e quem pediu aprovação.

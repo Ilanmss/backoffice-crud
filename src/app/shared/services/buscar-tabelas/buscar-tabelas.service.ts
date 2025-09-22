@@ -27,4 +27,9 @@ export class BuscarTabelasService {
     return of (resposta as Tabela[]);
   }
 
+  getTabelasQueNaoPossuiAcesso(): Observable<Tabela[]> {
+    let resposta: Tabela[] = MOCKDATA.filter(tabela => tabela.owned === false && tabela.has_access === false && tabela.status !== 'solicitar acesso');
+    return of (resposta as Tabela[]);
+  }
+
 }

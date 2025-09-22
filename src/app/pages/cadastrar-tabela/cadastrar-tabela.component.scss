@@ -1,0 +1,18 @@
+.formulario{
+  min-width: 150px;
+  max-width: 1000px;
+  width: 100%;
+}
+mat-form-field{
+  width: 100%;
+}
+
+.flex{
+  display: flex;
+  gap: 48px;
+}
+
+.input--desabilitado{
+  color: var(--mat-sys-on-primary);
+  height: 54px
+}

@@ -1,0 +1,59 @@
+<app-cabecalho-paginas 
+  [titulo]="'Cadastrar Tabelas'" 
+  [descricao]="'Por favor preencha o formulário abaixo para cadastrar uma nova tabela no sistema, ela será analisada e em seguida aprovada ou negada'"
+></app-cabecalho-paginas>
+
+<section>
+  <form [formGroup]="formsCadastroTabela" (ngSubmit)="submitForm()" class="formulario">
+    <div>
+      <div class="flex">
+        <mat-form-field >
+          <mat-label>Digite o nome da tabela</mat-label>
+          <input matInput type="text" formControlName="nome_tabela" />
+        </mat-form-field>
+        <input class="input--desabilitado" type="text" formControlName="tipo_tabela" />
+      </div>
+      <mat-form-field >
+        <mat-label>De uma descrição curta para a tabela</mat-label>
+        <textarea matInput formControlName="descricao"></textarea>
+      </mat-form-field>
+    </div>
+    <div>
+      <mat-form-field>
+        <mat-label>Digite o nome do cliente</mat-label>
+        <input matInput type="text" formControlName="nome_cliente" />
+      </mat-form-field>
+      <div class="flex">
+        <mat-form-field>
+          <mat-label>Digite o genero do cliente</mat-label>
+          <input matInput type="text" formControlName="genero" />
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Digite a idade do cliente apenas com números</mat-label>
+          <input matInput type="number" formControlName="idade" />
+        </mat-form-field>
+      </div>
+      <mat-form-field>
+        <mat-label>Digite o email do cliente</mat-label>
+        <input matInput type="email" required formControlName="email" />
+      </mat-form-field>
+      <mat-form-field>
+        <mat-label>Digite o telefone do cliente apenas com números</mat-label>
+        <input matInput type="number" formControlName="telefone" />
+      </mat-form-field>
+      <div class="flex">
+        <mat-form-field>
+          <mat-label>Digite o balanço em conta do cliente apenas com números</mat-label>
+          <input matInput type="number" formControlName="balanco" />
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Digite o risco que o cliente apresenta</mat-label>
+          <input matInput type="text" formControlName="status_credito" />
+        </mat-form-field>
+      </div>
+    </div>
+
+      <button mat-flat-button type="submit" [disabled]="formsCadastroTabela.invalid">Enviar para análise</button>
+  </form>
+
+</section>

@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+@use '@angular/material' as mat;
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+:root {
+  @include mat.table-overrides((
+    background-color: transparent,
+    row-item-outline-width: 1px,
+    header-headline-color: var(--mat-sys-on-primary),
+    row-item-label-text-color: var(--mat-sys-surface),
+    
+  ));
+}

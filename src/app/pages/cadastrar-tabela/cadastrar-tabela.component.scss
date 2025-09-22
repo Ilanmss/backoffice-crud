@@ -1,0 +1,41 @@
+.formulario{
+  min-width: 150px;
+  max-width: 1000px;
+  width: 100%;
+}
+mat-form-field{
+  width: 100%;
+}
+
+.flex{
+  display: flex;
+  gap: 48px;
+}
+
+.input--desabilitado{
+  color: var(--mat-sys-primary);
+  background-color: var(--mat-sys-on-primary);
+  height: 48px;
+  border-radius: 8px;
+  padding-left: 24px;
+}
+
+.btn--submit{
+  padding: 4px 8px;
+  color: var(--mat-sys-on-primary);
+  background-color: var(--mat-sys-primary);
+  border: none;
+  border-radius: 8px;
+  width: 200px;
+  height: 48px;
+  margin: 0 40%;
+  &:hover{
+    color: var(--mat-sys-primary);
+    background-color: var(--mat-sys-on-primary);
+  }
+  &:disabled{
+    cursor: not-allowed;
+    color: var(--mat-sys-on-primary);
+    background-color: var(--mat-sys-primary);
+  }
+}

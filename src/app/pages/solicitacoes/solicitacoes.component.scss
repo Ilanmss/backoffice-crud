@@ -1,0 +1,43 @@
+.status{
+  &--dono{
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 4px;
+    padding : 2px 4px;
+  }
+  &--analise{
+    color: orange;
+    border: 1px solid orange;
+    border-radius: 4px;
+    padding : 2px 4px;
+  }
+  &--aprovada{
+    color: green;
+    border: 1px solid green;
+    border-radius: 4px;
+    padding : 2px 4px;
+  }
+  &--negado{
+    color: red;
+    border: 1px solid red;
+    border-radius: 4px;
+    padding : 2px 4px;
+  }
+  &--solicitar{
+    background-color: var(--mat-sys-primary);
+    color: var(--mat-sys-on-primary);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding : 2px 4px;
+    cursor: pointer;
+    &:hover{
+      background-color: var(--mat-sys-primary-container);
+      color: var(--mat-sys-on-primary-container);
+    }
+  }
+}
+
+.sem-tabelas{
+  text-align: center;
+  margin-top: 40px;
+}
